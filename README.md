@@ -59,6 +59,10 @@ This project was developed as my Bachelor's thesis in Computer Science, focusing
 
 ## Demo
 
+Videofinal Editat
+
+[<img src="https://img.youtube.com/vi/6wChVT1UzZ8/0.jpg" width="240">](https://youtu.be/6wChVT1UzZ8)
+
 Videofinal
 
 [<img src="https://img.youtube.com/vi/zaAYcWIDMF0/0.jpg" width="240">](https://youtu.be/zaAYcWIDMF0)
