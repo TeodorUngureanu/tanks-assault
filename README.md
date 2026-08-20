@@ -55,3 +55,18 @@ Assets/
 ## Background
 
 This project was developed as my Bachelor's thesis in Computer Science, focusing on the design and implementation of a small real-time strategy/action game with rule-based enemy AI.
+
+
+## Demo
+
+Videofinal
+
+[<img src="https://img.youtube.com/vi/zaAYcWIDMF0/0.jpg" width="240">](https://youtu.be/zaAYcWIDMF0)
+
+PathBezier
+
+[<img src="https://img.youtube.com/vi/x612XGUFyhA/0.jpg" width="240">](https://youtu.be/x612XGUFyhA)
+
+Tanks' Assault
+
+[<img src="https://img.youtube.com/vi/0Z783r5BICU/0.jpg" width="240">](https://youtu.be/0Z783r5BICU)
