@@ -1,4 +1,4 @@
-# Tank Warfare
+# Tanks' Assault
 
 A 2D top-down WWII tank combat game built in Unity (C#) as my Bachelor's degree thesis project.
 
@@ -51,16 +51,6 @@ Assets/
 ├── Terrain/             # Terrain assets
 └── Textures/             # Environment textures
 ```
-
-## Getting Started
-
-1. Install [Unity Hub](https://unity.com/download) and Unity **5.5.x**.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/tank-warfare-unity.git
-   ```
-3. Open the project folder in Unity through Unity Hub.
-4. Open the `Chapters/Chapter0` scene and press Play.
 
 ## Background
 
