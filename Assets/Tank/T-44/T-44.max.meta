@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 35a43e0bad38c774db8bd5bb62b6ddd4
+timeCreated: 1484832454
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 100mm "D-10T" turret_2
+    100002: 100mm "LB-1" turret_2
+    100004: 122mm "D-25-44" turret_2
+    100006: 85mm "D-5T-85BM" turret_1
+    100008: 85mm "D-5T-85BM" turret_2
+    100010: 85mm "zis s-53" turret_1
+    100012: 85mm "zis s-53" turret_2
+    100014: Object001
+    100016: Object002
+    100018: Object_004
+    100020: Object_005
+    100022: Object_006
+    100024: Object_007
+    100026: Object_008
+    100028: Object_1
+    100030: Object_2
+    100032: Object_3
+    100034: //RootNode
+    100036: turret_1
+    100038: turret_2
+    400000: 100mm "D-10T" turret_2
+    400002: 100mm "LB-1" turret_2
+    400004: 122mm "D-25-44" turret_2
+    400006: 85mm "D-5T-85BM" turret_1
+    400008: 85mm "D-5T-85BM" turret_2
+    400010: 85mm "zis s-53" turret_1
+    400012: 85mm "zis s-53" turret_2
+    400014: Object001
+    400016: Object002
+    400018: Object_004
+    400020: Object_005
+    400022: Object_006
+    400024: Object_007
+    400026: Object_008
+    400028: Object_1
+    400030: Object_2
+    400032: Object_3
+    400034: //RootNode
+    400036: turret_1
+    400038: turret_2
+    2300000: 100mm "D-10T" turret_2
+    2300002: 100mm "LB-1" turret_2
+    2300004: 122mm "D-25-44" turret_2
+    2300006: 85mm "D-5T-85BM" turret_1
+    2300008: 85mm "D-5T-85BM" turret_2
+    2300010: 85mm "zis s-53" turret_1
+    2300012: 85mm "zis s-53" turret_2
+    2300014: Object001
+    2300016: Object002
+    2300018: Object_004
+    2300020: Object_005
+    2300022: Object_006
+    2300024: Object_007
+    2300026: Object_008
+    2300028: Object_1
+    2300030: Object_2
+    2300032: Object_3
+    2300034: turret_1
+    2300036: turret_2
+    3300000: 100mm "D-10T" turret_2
+    3300002: 100mm "LB-1" turret_2
+    3300004: 122mm "D-25-44" turret_2
+    3300006: 85mm "D-5T-85BM" turret_1
+    3300008: 85mm "D-5T-85BM" turret_2
+    3300010: 85mm "zis s-53" turret_1
+    3300012: 85mm "zis s-53" turret_2
+    3300014: Object001
+    3300016: Object002
+    3300018: Object_004
+    3300020: Object_005
+    3300022: Object_006
+    3300024: Object_007
+    3300026: Object_008
+    3300028: Object_1
+    3300030: Object_2
+    3300032: Object_3
+    3300034: turret_1
+    3300036: turret_2
+    4300000: Object_2
+    4300002: Object_3
+    4300004: Object_1
+    4300006: turret_1
+    4300008: turret_2
+    4300010: Object001
+    4300012: Object002
+    4300014: 85mm "zis s-53" turret_1
+    4300016: 85mm "D-5T-85BM" turret_1
+    4300018: 85mm "zis s-53" turret_2
+    4300020: 85mm "D-5T-85BM" turret_2
+    4300022: 100mm "D-10T" turret_2
+    4300024: 100mm "LB-1" turret_2
+    4300026: 122mm "D-25-44" turret_2
+    4300028: Object_004
+    4300030: Object_005
+    4300032: Object_006
+    4300034: Object_007
+    4300036: Object_008
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

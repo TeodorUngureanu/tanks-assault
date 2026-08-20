@@ -1,0 +1,72 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.01.2017 18:26:19
+
+newmtl Turret
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Turret.tga
+	map_Kd D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Turret.tga
+
+newmtl Track
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Track.tga
+	map_Kd D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Track.tga
+
+newmtl Turret_2
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Turret 2.tga
+	map_Kd D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Turret 2.tga
+
+newmtl Body_2
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Body 2.tga
+	map_Kd D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Body 2.tga
+
+newmtl Body_1
+	Ns 7.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Body 1.tga
+	map_Kd D:\Licenta Versiunea Finala\License\Assets\Tank\ausf.b\Body 1.tga
